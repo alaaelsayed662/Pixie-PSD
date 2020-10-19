@@ -1,0 +1,59 @@
+
+.breadcrumb {
+	padding: 10px 0;
+	margin: 0;
+}
+
+
+.breadcrumb-holder {
+	background-color: #F5F5F5;
+}
+
+.about-itus {
+	padding: 70px 0;
+}
+
+.about-itus h1 {
+	font-family: 'Sirin Stencil', cursive;
+	letter-spacing: -3px;
+	font-size: 62px;
+}
+
+.about-itus hr {
+	width: 70%;
+}
+
+.about-afeatures {
+	padding: 0 0 70px;
+}
+
+.faq {
+	padding: 40px;
+}
+
+.faq h1 {
+	font-family: 'Sirin Stencil', cursive;
+	letter-spacing: -3px;
+	font-size: 65px;
+}
+
+.faq h1 - hr {
+	width: 70%;
+}
+
+
+.faq-ques .panel-heading {
+	padding: 20px 15px;
+}
+
+.faq-ques .panel-heading a:after {
+	font-family: 'Glyphicons Halflings';
+	content: "\f078";
+	float: right;
+	color: #444;
+}
+
+.faq-ques .panel-heading a.collapsed:after {
+	content: "\e080";
+	color:#999;
+}
